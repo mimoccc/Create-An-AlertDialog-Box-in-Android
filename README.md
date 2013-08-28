@@ -9,5 +9,5 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/create-an-alertdi
 
 **Screenshot**
 
-![Create An AlertDialog Box in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/10/AlertDialog-Tutorial.png)
+![Create An AlertDialog Box in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/10/AlertDialog-Tutorial-ScreenShots.png)
 
